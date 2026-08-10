@@ -638,6 +638,7 @@
 * [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+* [Learn Computer Academy - পাইথন](https://docs.learncomputer.in/bn/python) - [Learn Computer Academy](https://learncomputer.in)
 
 ### আর (R)
 * [R Programming Tutorial: Bangla Course(আর প্রোগ্রামিং টিউটোরিয়াল: বাংলা কোর্স)](https://www.youtube.com/playlist?list=PLurbSF7_tErorQohT-g0Mi3Iluos7dAAW)
@@ -666,10 +667,12 @@
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
 * [কোডিং JS](https://nipu.gitbook.io/coding-js) - [কোডিং JS](https://nipu.gitbook.io/coding-js/)
+* [Learn Computer Academy - জাভাস্ক্রিপ্ট](https://docs.learncomputer.in/bn/javascript) - [Learn Computer Academy](https://learncomputer.in)
 
 
 ### পিএইচপি (PHP)
 * [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
+* [Learn Computer Academy - PHP](https://docs.learncomputer.in/bn/php) - [Learn Computer Academy](https://learncomputer.in)
 
 ### ডার্ট
 * [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
